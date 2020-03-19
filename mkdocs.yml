@@ -1,0 +1,9 @@
+site_name: JinのC++入門
+theme: material
+extra_css:
+  - "css/custom-styles.css"
+extra_javascript: 
+  - http://cdn.mathjax.org/mathjax/latest/MathJax.js?config=TeX-AMS-MML_HTMLorMML
+markdown_extensions:
+  - codehilite
+  - mdx_math
