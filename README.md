@@ -12,6 +12,7 @@ Markdownからウェブドキュメントを作成するライブラリ、[MkDoc
 - mkdocs-material
 - Pygments
 - python-markdown-math
+
 これらはどれもpip(Python純正のパッケージマネージャ)で簡単にインストールすることができる。
 上に記載した、インストールの際に使うレポジトリの名前は、実際にmkdocs.yml内で呼び出す際の名前とは異なる可能性があるので注意する。
 例:mkdocs-material→material
