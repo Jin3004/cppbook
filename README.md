@@ -18,10 +18,10 @@ Markdownからウェブドキュメントを作成するライブラリ、[MkDoc
 例:mkdocs-material→material
 
 ### MkDocsコマンドチートシート
-新しいドキュメントを作成する:``mkdocs new [name]``
-WEBページをまるごと生成:``mkdocs build``
-ローカルホスト(serve中は自動リビルド):``mkdocs serve``
-設定すればGitHub Pagesにデプロイできるらしい:``mkdocs gh-deploy``
+- 新しいドキュメントを作成する:``mkdocs new [name]``
+- WEBページをまるごと生成:``mkdocs build``
+- ローカルホスト(serve中は自動リビルド):``mkdocs serve``
+- 設定すればGitHub Pagesにデプロイできるらしい:``mkdocs gh-deploy``
 
 ## 階層構造
 ``mkdocs new document``というコマンドでドキュメントを作ったという設定で。
